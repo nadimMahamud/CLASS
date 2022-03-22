@@ -30,7 +30,7 @@
 .css-property-two span{
   margin: 20px 0 0 0;
   display: inline-block;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: sans-serif;
   font-weight: bold;
 }
 .css-property-three{
