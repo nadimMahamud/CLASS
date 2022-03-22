@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+.css-property-one{
+  width: 500px;
+  background-color: aquamarine;
+  margin: 15px 0 0 20px;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid gray;
+}
+.css-property-two{
+  width: 700px;
+  min-height: 400px;
+  background-image: url(../images/tree.jpg);
+  margin: 30px auto;
+  padding: 20px;
+  color: aliceblue;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 90px 5px;
+}
+.css-property-two p{
+  margin: 100px 50px 0 50px;
+  line-height: 25px;
+}
+.css-property-two span{
+  margin: 20px 0 0 0;
+  display: inline-block;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.css-property-three{
+  background-size: 500px;
+  background-image: url(../images/alone.jpg);
+  background-repeat: repeat-x;
+}
+
+.css-property-three img{
+  width: 500px;
+  height: 300px;
+  margin: 20px 0px 20px 500px;
+}
+.css-property-four{
+  min-height: 200px;
+  border: 1px solid blue;
+  background-image: url(../images/wow.jpg);
+  margin-top: 50px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
