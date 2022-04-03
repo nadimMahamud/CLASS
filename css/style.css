@@ -69,3 +69,28 @@
 .container{
   margin-top: 50px;
 }
+#header{
+  background-color: rgba(21, 145, 170, 0.7);
+}
+.logo{
+  width: 25%;
+  background-color: greenyellow;
+  float: left;
+}
+.menu{
+  width: 50%;
+  background-color: lightgreen;
+  float: left;
+}
+.clear_fix{
+  clear: both;
+}
+#banner{
+  background-color: chartreuse;
+}
+#main_content{
+  background-color: darkmagenta;
+}
+#footer{
+  background-color: deeppink;
+}
